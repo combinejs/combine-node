@@ -1,0 +1,25 @@
+{
+  "name": "combine-node",
+  "version": "0.1.0",
+  "description": "combinejs internal node class",
+  "main": "combine-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/combinejs/combine-node.git"
+  },
+  "keywords": [
+    "combinejs"
+  ],
+  "author": "spat.ne.hochu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/combinejs/combine-node/issues"
+  },
+  "homepage": "https://github.com/combinejs/combine-node#readme",
+  "dependencies": {
+    "case": "^1.4.1"
+  }
+}
