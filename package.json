@@ -1,6 +1,6 @@
 {
-  "name": "combine-node",
-  "version": "0.1.0",
+  "name": "@combinejs/node",
+  "version": "0.1.1",
   "description": "combinejs internal node class",
   "main": "combine-node.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/combinejs/combine-node.git"
+    "url": "git+https://github.com/combinejs/node.git"
   },
   "keywords": [
     "combinejs"
@@ -16,9 +16,9 @@
   "author": "spat.ne.hochu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/combinejs/combine-node/issues"
+    "url": "https://github.com/combinejs/node/issues"
   },
-  "homepage": "https://github.com/combinejs/combine-node#readme",
+  "homepage": "https://github.com/combinejs/node#readme",
   "dependencies": {
     "case": "^1.4.1"
   }
