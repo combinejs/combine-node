@@ -149,7 +149,7 @@ class CombineNode {
      *
      * @returns {CombineNode[]}
      */
-    getMixinList() {
+    getMixines() {
         return this._mixins;
     }
 
